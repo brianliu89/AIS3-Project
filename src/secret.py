@@ -1,0 +1,8 @@
+CHANNEL_ACCESS_TOKEN = '2VYh+SJP6h+Vb8NId5qyvakdQPscFIjbqkFxBUnPCWOAgaljri0OrTfBmsErhwcWyhX0zlatLp/nfj4NmMuZxnn1p/j4oAYU3z0Y7wHCmCvtXSlTDDKTfYKSkLixaZyNtuxWPh66fIXDcU5w89NNZQdB04t89/1O/w1cDnyilFU='
+CHANNEL_SECRET = '8be1f7f98ad11b46e9f5af14f1ad82b8'
+# IPdata API 金鑰
+IPdata_api_key = "2def34f3ebc9abf5c475b90e5d8c5399fb32dc64e90d04514de41b9b"
+# AbuseIPDB API 金鑰
+AbuseIPDB_api_key = "3e903d40fe34f8f6f773c8adbc19d2c8707aa063d186543c8f0c973037001c70ec45b4677f9f8002"
+# VirusTotal API 金鑰
+VirusTotal_api_key = "2a958acb6415e1faff944c93951107d9a12e374c92c23ec9f4896e8b20c9e662"
